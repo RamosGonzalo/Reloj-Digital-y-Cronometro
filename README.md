@@ -1,6 +1,6 @@
 # Reloj Digital con Cronómetro
 
-Este es un proyecto de un **reloj digital** con funcionalidad de **cronómetro** desarrollado utilizando **HTML**, **CSS** y **JavaScript**. El reloj muestra la hora actual en tiempo real, y el cronómetro permite contar el tiempo hacia atrás o hacia adelante según las preferencias del usuario.
+Este es un proyecto de un **reloj digital** con un **cronómetro** desarrollado utilizando **HTML**, **CSS** y **JavaScript**. El reloj muestra la hora actual en tiempo real, y el cronómetro permite contar el tiempo con la funcionalidad de iniciarlo, pausarlo y reiniciarlo.
 
 ## Características
 
@@ -13,3 +13,7 @@ Este es un proyecto de un **reloj digital** con funcionalidad de **cronómetro**
 - **HTML**: Estructura del proyecto.
 - **CSS**: Estilos y diseño visual.
 - **JavaScript**: Funcionalidad del reloj y cronómetro.
+
+## Captura de Pantalla
+
+![reloj-digital-y-cronometro](https://github.com/user-attachments/assets/17881751-b336-4b03-b5b1-44295f696c01)
