@@ -1,0 +1,71 @@
+html{
+    background-color: #37474f;
+}
+
+#reloj {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.reloj-contenedor {
+    background-color: #546e7a;
+    padding: 25px;
+    max-width: 600px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+#fecha {
+    letter-spacing: 5px;
+    font-size: 22px;
+}
+
+#cronometro {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.cronometro-contenedor {
+    background-color: #546e7a;
+    padding: 25px;
+    max-width: 600px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+#boton-cronometro-iniciar, #boton-cronometro-reiniciar {
+    height: 2rem;
+    width: 5rem;
+    border-radius: 10px;
+    background-color: #37474f;
+    color: white;
+    border-color: #263238;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#boton-cronometro-iniciar:hover, #boton-cronometro-reiniciar:hover {
+    background-color: #263238;
+}
+
+#contador {
+    font-family: 'Orbitron', sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 10ch;
+}
+
+.milisegundos {
+    font-size: 30px; 
+    vertical-align: super; 
+    color: white; 
+}
